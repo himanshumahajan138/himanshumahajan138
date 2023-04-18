@@ -1,6 +1,8 @@
-- 👋 Hi, I’m himanshu mahajan
-- 👀 I’m interested in ... python
-- 🌱 I’m currently learning ... python
+I am Currently Pursuing Btech (CSE)
+Main Moto Is To Advance Python 
+Currently Working On Machine Learning 
+
+
 
 <!---
 himanshumahajan138/himanshumahajan138 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
