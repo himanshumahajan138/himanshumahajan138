@@ -1,6 +1,6 @@
-I am Currently Pursuing Btech (CSE)
-Main Moto Is To Advance Python 
-Currently Working On Machine Learning 
+- I am Currently Pursuing Btech (CSE)
+- Main Moto Is To Advance Python 
+- Currently Working On Machine Learning 
 
 
 
