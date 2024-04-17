@@ -87,10 +87,11 @@
 ## GitHub Stats 
 <p align="center">
   <a>
-  <a href="https://github.com/himanshumahajan138"><img alt="Himanshu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=himanshumahajan138&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
-  </a>
-  <a href="https://github.com/himanshumahajan138">
+  <a href="https://github.com/himanshumahajan138" align="left">
+    <img alt="Himanshu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=himanshumahajan138&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
+  <a href="https://github.com/himanshumahajan138" float="right">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshumahajan138&theme=radical&border=7F3FBF&background=0D1117" alt="Himanshu's GitHub streak"/>
+  </a>
   </a>
   <a href="https://github.com/himanshumahajan138">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshumahajan138&theme=radical" alt="Himanshu's GitHub Contribution"/>
