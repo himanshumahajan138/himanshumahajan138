@@ -56,8 +56,7 @@
 ![Pandas](https://img.shields.io/badge/Pandas-7F3FBF?style=for-the-badge&logo=pandas&logoColor=white)
 ![Scikitlearn](https://img.shields.io/badge/ScikitLearn-yellow?style=for-the-badge&logo=scikitlearn&logoColor=white)
 ![tensorflow](https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <hr/>
