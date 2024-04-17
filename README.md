@@ -18,7 +18,6 @@
 
 <p align="center"> 
   <samp>
-    <br>
     「 I am a <b>Machine Learning</b> and <b>Data Science</b> Enthusiast with Great <b>Problem Solving</b> Skills. 」
     <br>
   </samp>
@@ -87,24 +86,15 @@
 <p align="center">
   <a>
   <a href="https://github.com/himanshumahajan138">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshumahajan138&theme=radical" alt="Himanshu's GitHub Contribution"/>
+  </a>
+  <a href="https://github.com/himanshumahajan138">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshumahajan138&theme=radical&border=7F3FBF&background=0D1117" alt="Himanshu's GitHub streak"/>
   </a>
   <a href="https://github.com/himanshumahajan138"><img alt="Himanshu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=himanshumahajan138&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="200px" width="49.5%"/></a>
   </a>
 </p>
-
-<p align="center">
-  <a>
-  <a href="https://github.com/himanshumahajan138">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshumahajan138&theme=radical" alt="Himanshu's GitHub Contribution" width="59.5%"/>
-  </a>
-  <a href="https://github.com/himanshumahajan138"><img alt="Himanshu's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=himanshumahajan138&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="39.5%"/></a>
-  </a>
-  </p>
-
-![Himanshu Mahajan](https://github-readme-activity-graph.vercel.app/graph?username=himanshumahajan138&custom_title=Himanshu's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=7F3FBF&line=7F3FBF&point=7F3FBF&area_color=FFFFFF&title_color=FFFFFF&area=true)
-
-
+<hr/>
 <!---
 himanshumahajan138/himanshumahajan138 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
