@@ -78,7 +78,11 @@
 <hr/>
 
 ## Leetcode Stats 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/himanshu138?ext=contest&border=0&radius=20&width=500&height=500)](https://www.leetcode.com/himanshu138)
+<p align="center">
+  <a href="https://www.leetcode.com/himanshu138">
+    <img src="https://leetcard.jacoblin.cool/himanshu138?ext=contest&border=0&radius=20&width=500&height=500" alt="Leetcode Stats">
+  </a>
+</p>
 <hr/>
 
 ## GitHub Stats 
