@@ -5,7 +5,7 @@
 
 
 <p align="center">
-  <a href="https://github.com/himanshumahajan138"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Machine%20Learning%20and%20Data%20Science%20Enthusiast;4.5%2B%20years%20of%20coding%20experience;Always%20ready%20to%20learn%20new%20things&center=true&width=500&height=45"></a>
+  <a href="https://github.com/himanshumahajan138"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;ML%20and%20DS%20Enthusiast;4.5%2B%20years%20of%20coding%20experience;Always%20ready%20to%20learn%20new%20things&center=true&width=500&height=45"></a>
 </p>
 
 <!-- Intro  -->
@@ -41,8 +41,8 @@
   
  ✌️ &emsp; Always Ready to solve Problems <br/><br/>
  ❤️ &emsp; First Love Problem Solving and Second Machine Learning<br/><br/>
- 🙌 &emsp; Self Taught Python Programmer with 3.5+ Years of Experience <br/><br/>
- 😋 &emsp; Using C++ for Beating Others in Data Structures and Algorithms <br/><br/>
+ 🙌 &emsp; Self Taught Programmer with 4.5+ Years of Experience <br/><br/>
+ 😋 &emsp; Using C++ to compete in Data Structures and Algorithms <br/><br/>
  📧 &emsp; Reach me anytime on : [Linkedin](https://www.linkedin.com/in/himanshu-mahajan-a0242026a)<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/himanshumahajan138/himanshumahajan138/issues)
 
