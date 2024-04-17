@@ -37,7 +37,7 @@
  # About me
  
 <p>
- <img align="right" width="350" src="/assets/programmer.gif" alt="Coding gif" />
+ <img align="right" width="350" src="/programmer.gif" alt="Coding gif" />
   
  ✌️ &emsp; Always Ready to solve Problems <br/><br/>
  ❤️ &emsp; First Love Problem Solving and Second Machine Learning<br/><br/>
