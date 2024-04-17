@@ -78,8 +78,7 @@
 <hr/>
 
 ## Leetcode Stats 
-[![Leetcode Stats](https://leetcard.jacoblin.cool/himanshu138?ext=contest&border=0&radius=20&width=500&height=400)](https://www.leetcode.com/himanshu138)
-[![Leetcode Stats](https://leetcard.jacoblin.cool/himanshu138?ext=heatmap&border=0&radius=20&width=500&height=400)](https://www.leetcode.com/himanshu138)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/himanshu138?ext=contest&border=0&radius=20&width=500&height=500)](https://www.leetcode.com/himanshu138)
 <hr/>
 
 ## GitHub Stats 
