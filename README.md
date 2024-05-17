@@ -61,6 +61,10 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 <hr/>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/himanshumahajan138/himanshumahajan138/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/himanshumahajan138/himanshumahajan138/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+
+<hr/>
 ## Top Repositories 
 [![website](https://github-readme-stats.vercel.app/api/pin/?username=himanshumahajan138&repo=Similar_Document_Template_Matching_Algorithm_Flask&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/himanshumahajan138/Similar_Document_Template_Matching_Algorithm_Flask)
 [![website](https://github-readme-stats.vercel.app/api/pin/?username=himanshumahajan138&repo=Flask-Website-Data-Analysis-With-Himanshu&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/himanshumahajan138/Flask-Website-Data-Analysis-With-Himanshu)
