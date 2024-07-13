@@ -76,14 +76,6 @@
 
 <hr/>
 
-## Leetcode Stats 
-<p align="center">
-  <a href="https://www.leetcode.com/himanshu138">
-    <img src="https://leetcard.jacoblin.cool/himanshu138?ext=contest&border=0&radius=20&width=500&height=400" alt="Leetcode Stats">
-  </a>
-</p>
-<hr/>
-
 ## GitHub Stats 
 <p align="center">
   <a>
