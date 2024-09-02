@@ -16,50 +16,32 @@
 </h3>
 
 
-<p align="center"> 
-  <samp>
-    「 I am a <b>Machine Learning</b> and <b>Data Science</b> Enthusiast with Great <b>Problem Solving</b> Skills. 」
-    <br>
-  </samp>
-</p>
+# 💫 About Me:
+<img align="right" width="250" src="/programmer.gif" alt="Coding gif" />
+🔭 I’m currently working on DevOps and Machine Learning<br>👯 I’m looking to collaborate on Projects<br>🤝 I’m looking for help with internships<br>🌱 I’m currently Exploring different technologies<br>💬 Ask me about Experimentation<br>⚡ Fun fact: I Never Leave my work unfinished
 
-<p align="center">
- <a href="https://www.linkedin.com/in/himanshu-mahajan-a0242026a" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="himanshumahajan138"/>
- </a>
-<a href="https://www.leetcode.com/himanshu138" target="_blank">
-  <img src="https://img.shields.io/badge/Leetcode-FE7D37?style=for-the-badge&logo=leetcode&logoColor=black" alt="himanshumahajan138"/>
-</a>
-</p>
-<hr/>
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/himanshu138) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ai_himanshu) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/himanshu138) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@himanshumahajan138) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/himanshucpp138) 
 
-<!-- About Section -->
- # About me
- 
-<p>
- <img align="right" width="350" src="/programmer.gif" alt="Coding gif" />
-  
- ✌️ &emsp; Always Ready to solve Problems <br/><br/>
- ❤️ &emsp; First Love Problem Solving and Second Machine Learning<br/><br/>
- 🙌 &emsp; Self Taught Programmer with 4.5+ Years of Experience <br/><br/>
- 😋 &emsp; Using C++ to compete in Data Structures and Algorithms <br/><br/>
- 📧 &emsp; Reach me anytime on : [Linkedin](https://www.linkedin.com/in/himanshu-mahajan-a0242026a)<br/><br/>
- 💬 &emsp; Ask me about anything [here](https://github.com/himanshumahajan138/himanshumahajan138/issues)
+# 💻 Tech Stack:
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GithubPages](https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Jinja](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=himanshumahajan138&theme=monokai&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=himanshumahajan138&theme=monokai&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=himanshumahajan138&theme=monokai&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-</p>
-<hr/>
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=himanshumahajan138&theme=monokai&no-frame=false&no-bg=true&margin-w=4)
 
-## Technology Stack
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-7F3FBF?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikitlearn](https://img.shields.io/badge/ScikitLearn-yellow?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![tensorflow](https://img.shields.io/badge/tensorflow-orange?style=for-the-badge&logo=tensorflow&logoColor=white)
-![javascript](https://img.shields.io/badge/javascript-yellow?style=for-the-badge&logo=javascript&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-<hr/>
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=himanshumahajan138&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+---
+[![](https://visitcount.itsvg.in/api?id=himanshumahajan138&icon=3&color=4)](https://visitcount.itsvg.in)
+
 
 ## Top Repositories 
 
@@ -74,23 +56,7 @@
 <p align="left">
   <a href="https://github.com/himanshumahajan138?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
 </p>
-
-<hr/>
-
-## GitHub Stats 
-<p align="center">
-  <a>
-  <a href="https://github.com/himanshumahajan138" align="left">
-    <img alt="Himanshu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=himanshumahajan138&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866"/></a>
-  <a href="https://github.com/himanshumahajan138" float="right">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=himanshumahajan138&theme=radical&border=7F3FBF&background=0D1117" alt="Himanshu's GitHub streak"/>
-  </a>
-  </a>
-  <a href="https://github.com/himanshumahajan138">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=himanshumahajan138&theme=radical" alt="Himanshu's GitHub Contribution"/>
-  </a>
-</p>
-<hr/>
+</hr>
 <!---
 himanshumahajan138/himanshumahajan138 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
