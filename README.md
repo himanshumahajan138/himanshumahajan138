@@ -15,6 +15,8 @@
         </samp>
 </h3>
 
+![github contribution grid snake animation](https://raw.githubusercontent.com/himanshumahajan138/himanshumahajan138/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/himanshumahajan138/himanshumahajan138/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 # 💫 About Me:
 
