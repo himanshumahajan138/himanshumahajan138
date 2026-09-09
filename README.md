@@ -7,12 +7,7 @@
   <a href="https://github.com/himanshumahajan138"><img src="https://readme-typing-svg.herokuapp.com/?lines=Self%20Taught%20Programmer;Open%20Source%20Contributor%20and%20Bounty%20Hunter;5%2B%20years%20of%20coding%20experience;%20ML%20and%20DS%20Enthusiast;Always%20ready%20to%20learn%20new%20things&center=true&width=500&height=45"></a>
 </p>
 
-<a href="https://ghfind.com/u/himanshumahajan138?ref=badge">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://ghfind.com/api/card/mini/himanshumahajan138?theme=dark" />
-    <img src="https://ghfind.com/api/card/mini/himanshumahajan138?theme=light" alt="GitHub Roast score card" width="440" />
-  </picture>
-</a>
+<a href="https://ghfind.com/u/himanshumahajan138?ref=badge"><img src="https://ghfind.com/api/card/himanshumahajan138?theme=dark" alt="GitHub Roast" width="600" /></a>
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/himanshumahajan138/himanshumahajan138/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![github contribution grid snake animation](https://raw.githubusercontent.com/himanshumahajan138/himanshumahajan138/output/github-contribution-grid-snake.svg#gh-light-mode-only)
